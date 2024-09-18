@@ -1,0 +1,7 @@
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\bin\Debug\pokemon3.exe.config
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\bin\Debug\pokemon3.exe
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\bin\Debug\pokemon3.pdb
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\obj\Debug\pokemon3.csproj.AssemblyReference.cache
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\obj\Debug\pokemon3.csproj.CoreCompileInputs.cache
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\obj\Debug\pokemon3.exe
+C:\Users\Пеофоратор2005\source\repos\pokemon3\pokemon3\obj\Debug\pokemon3.pdb
